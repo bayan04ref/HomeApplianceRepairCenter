@@ -1,0 +1,19 @@
+System Testing Report
+
+Test 1:
+Added Refrigerator successfully.
+
+Test 2:
+Added Washing Machine successfully.
+
+Test 3:
+Added Air Conditioner successfully.
+
+Test 4:
+Changed device status to Repaired.
+
+Result:
+Event triggered correctly.
+
+Test 5:
+Calculated total repair cost successfully.
